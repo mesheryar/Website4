@@ -1,0 +1,278 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Ubuntu;
+}
+
+.nv-bar img {
+  height: 60px;
+}
+
+.nv-bar h2 {
+  font-weight: 300;
+  font-family: Raleway;
+  font-size: 36px;
+  line-height: 42.26px;
+}
+
+#Sectwo-main {
+  height: auto;
+  width: 100%;
+  background-color: #B0DAD9;
+  text-align: center;
+}
+
+.camera {
+  margin-top: 80px;
+  border-radius: 60px;
+}
+
+#Sectwo-main p {
+  margin-top: 15px;
+  font-size: 24px;
+  margin-right: 10px;
+  font-family: Ubuntu;
+  font-weight: 300;
+  line-height: 27.58px;
+}
+
+#Sectwo-main h3 {
+  background-color: #236D77E3;
+  color: white;
+  width: 229px;
+  margin: 0 auto;
+  padding: 10px 12px;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 41.36px;
+  font-family: Ubuntu;
+}
+
+.butn-1 {
+  height: 50px;
+  margin-top: 20px;
+  width: 35%;
+  background-color: #5E9595;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.butn-1:hover {
+  border: 1px solid;
+  color: #236D77E3;
+  background-color: white;
+  border-radius: 6px;
+  border-color: black;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.line-1 {
+  border-bottom: 1px solid rgb(255, 255, 255);
+  width: 20%;
+}
+
+.SecThree-main h4 {
+  line-height: 28.8px;
+  margin-top: 30px;
+  font-size: 24px;
+  font-weight: 400;
+  font-family: bitter;
+}
+
+span {
+  color: #236D77E3;
+}
+
+.SecThree-main p {
+  margin-top: 20px;
+  font-family: Ubuntu;
+  font-weight: 300;
+  font-size: 17px;
+}
+
+.butn-2 {
+  border: solid 1px;
+  width: 118px;
+  height: 43px;
+  border-radius: 6px;
+}
+
+.butn-2:hover {
+  border: none;
+  color: white;
+  background-color: #236D77E3;
+  border-radius: 6px;
+}
+
+.pics-div {
+  height: 450px;
+  width: 467px;
+  background-color: #236D77E3;
+  margin-top: 10px;
+}
+
+.pics-div img {
+  height: 140px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.SecFour-main h1 {
+  text-align: center;
+  padding-top: 100px;
+}
+#services{
+  text-align: center;
+  font-weight: 500;
+  margin-top: 100px;
+  font-family: Ubuntu;
+}
+.card1-img{
+  background-image: url("./Assets/pic-6.png");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card-h2{
+  background-color:#22435E99 ;
+  height: 70px;
+  position: absolute;
+  bottom: 1px;
+  width: 100%;
+  font-weight: 300;
+  color: white;
+  font-family: Nunito;
+  padding-top: 15px;
+  font-size: 24px;
+}
+.card2-img{
+  background-image: url("./Assets/pic-7.png");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card3-img{
+  background-image: url("./Assets/pic-8.png");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card4-img{
+  background-image: url("./Assets/pic-9.png");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card5-img{
+  background-image: url("./Assets/pic-10.png");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card6-img{
+  background-image: url("./Assets/pic-11.png");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+#SecFive-main h1{
+  text-align: center;
+  margin-top: 80px;
+  font-weight: 700;
+  font-family: Ubuntu;
+  font-size: 36px;
+}
+#SecFive-main h3{
+  font-size: 36px;
+  font-weight: 400;
+}
+#SecFive-main h5{
+  font-weight: 400;
+  font-size: 24px;
+}
+.input-1{
+  height: 60px;
+  width: 80%;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+}
+.input-main{
+  height: 100px;
+  width: 80%;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+}
+#SecSix-main{
+  background-color: #212528E5;
+  margin-top: 100px;
+  color: white;
+}
+#SecSix-main h3{
+font-weight: 200;
+font-size: 24px;
+}
+#SecSix-main h6{
+  font-weight: 300;
+  font-size: 18px;
+  margin-left: 80px;
+}
+#SecSix-main p{
+  font-size: 12px;
+  font-weight: 300;
+  margin-left: 80px;
+}
+#SecSix-main h4{
+font-weight: 400;
+font-size: 18px;
+margin-top: 25px;
+}
+#SecSix-main h5{
+  font-size: 13px;
+  font-weight: 300;
+}
+.input-last{
+  background: transparent;
+  height: 40px;
+  border-color: white;
+}
+.input-last:hover {  
+  color: white;
+  background-color: #236D77E3;
+  border-radius: 6px;
+  border-color: white;
+}
+.butn-last{
+  border-color: white;
+  height: 40px;
+  background: transparent;
+  width: 70px;
+  color: white;
+}
+.butn-last:hover {  
+  color: white;
+  background-color: #236D77E3;
+  border-radius: 6px;
+}
